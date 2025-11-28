@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Spain | [consultarvehiculo.es](https://consultarvehiculo.es/) | [cupon-carvertical-codigo-descuento](https://consultarvehiculo.es/cupon-carvertical-codigo-descuento/) | Cupón descuento carVertical | Cupón descuento carVertical | CONSULTARVEHICULO |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Spain | [consultarvehiculo.es](https://consultarvehiculo.es/) | [cupon-carvertical-codigo-descuento](https://consultarvehiculo.es/cupon-carvertical-codigo-descuento/) | Cupón descuento carVertical | Cupón descuento carVertical | CONSULTARVEHICULO | 20% |
 
 ## About
 

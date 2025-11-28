@@ -10,7 +10,8 @@ const discountCodes = [
     page: 'https://consultarvehiculo.es/cupon-carvertical-codigo-descuento/',
     title: 'Cupón descuento carVertical',
     button: 'Cupón descuento carVertical',
-    discount_code: 'CONSULTARVEHICULO'
+    discount_code: 'CONSULTARVEHICULO',
+    percentage: '20%'
   }
 ];
 
