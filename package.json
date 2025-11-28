@@ -1,0 +1,29 @@
+{
+  "name": "cupon-descuento-carvertical",
+  "version": "1.0.0",
+  "description": "Cupón descuento carVertical - Discount codes for carVertical VIN decoder services in Spain",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "carvertical",
+    "cupon descuento",
+    "codigo descuento",
+    "discount",
+    "coupon",
+    "promo code",
+    "vin decoder",
+    "vehicle history",
+    "consultarvehiculo",
+    "spain",
+    "españa"
+  ],
+  "author": "vindecoderpro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vindecoderpro/cupon-descuento-carvertical"
+  }
+}
+
